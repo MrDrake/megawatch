@@ -7,7 +7,17 @@
     "longName": "MegaWatch",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/megawatch.png",
+                "name": "MEGAWATCH_BACKGROUND",
+                "storageFormat": "png",
+                "targetPlatforms": [
+                    "chalk"
+                ],
+                "type": "bitmap"
+            }
+        ]
     },
     "sdkVersion": "3",
     "shortName": "MegaWatch",
