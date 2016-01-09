@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "john@mrdrake.net",
+    "longName": "MegaWatch",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "MegaWatch",
+    "targetPlatforms": [
+        "chalk"
+    ],
+    "uuid": "4f065cae-16f8-4614-922d-441e08be0590",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
