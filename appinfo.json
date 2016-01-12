@@ -3,28 +3,30 @@
     "capabilities": [
         ""
     ],
-    "companyName": "john@mrdrake.net",
-    "longName": "MegaWatch",
+    "companyName": "Pebble",
+    "longName": "Tutorial-2-2",
     "projectType": "native",
     "resources": {
         "media": [
             {
-                "file": "images/megawatch.png",
-                "name": "MEGAWATCH_BACKGROUND",
-                "storageFormat": "png",
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
                 "targetPlatforms": [
-                    "chalk"
+                    "basalt"
                 ],
                 "type": "bitmap"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "type": "font"
             }
         ]
     },
     "sdkVersion": "3",
-    "shortName": "MegaWatch",
-    "targetPlatforms": [
-        "chalk"
-    ],
-    "uuid": "4f065cae-16f8-4614-922d-441e08be0590",
+    "shortName": "Tutorial-2-2",
+    "uuid": "228c54d1-98f0-495c-8029-31daef4aecdb",
     "versionLabel": "1.0",
     "watchapp": {
         "watchface": true
