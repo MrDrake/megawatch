@@ -3,29 +3,26 @@
     "capabilities": [
         ""
     ],
-    "companyName": "Pebble",
-    "longName": "Tutorial-2-2",
+    "companyName": "MrDrake",
+    "longName": "MegaWatch",
     "projectType": "native",
     "resources": {
         "media": [
             {
                 "file": "images/background.png",
-                "name": "IMAGE_BACKGROUND",
+                "name": "MEGAWATCH_BACKGROUND",
                 "targetPlatforms": [
                     "basalt"
                 ],
                 "type": "bitmap"
-            },
-            {
-                "compatibility": "2.7",
-                "file": "fonts/perfect-dos-vga.ttf",
-                "name": "FONT_PERFECT_DOS_48",
-                "type": "font"
             }
         ]
     },
     "sdkVersion": "3",
-    "shortName": "Tutorial-2-2",
+    "shortName": "MegaWatch",
+    "targetPlatforms": [
+        "basalt"
+    ],
     "uuid": "228c54d1-98f0-495c-8029-31daef4aecdb",
     "versionLabel": "1.0",
     "watchapp": {
